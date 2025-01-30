@@ -1,5 +1,8 @@
 In my first year as a student engineer, I was assigned a web technology project. Here is the result of my work in pairs with a fellow student. We hope you will give us some constructive feedback. For contact: djeryala@gmail.com
 
+
+In my first year as a student engineer, I was assigned a web technology project. Here is the result of my work in pairs with a fellow student. We hope you will give us some constructive feedback. For contact: djeryala@gmail.com
+
 MANIPULATION :
 
 Le fichier code_bd.sql contient le script SQL nécessaire à la création de la base de données.
